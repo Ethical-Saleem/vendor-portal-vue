@@ -1,0 +1,170 @@
+#firstNav {
+    border-top: 2px solid grey;
+}
+#secondNav {
+    background: rgb(9, 168, 197);
+}
+#navItem {
+    border-left: 1px solid grey;
+    width: 33.33%;
+}
+
+
+ul {
+    list-style-type: none;
+}
+#sideNavLink {
+    color: #dadada;
+}
+
+
+#sideNavLink:hover {
+    color: white;
+}
+#sideNavLink:active {
+    color: white;
+}
+#col {
+    border-radius: 5px;
+    padding: 0.5rem;
+}
+
+#cardOne {
+    background: #b5e5ee;
+}
+#cardTwo {
+    background: #fbe6ba;
+}
+#cardThree {
+    background: #cef2d1;
+}
+#cardFour {
+    background: #f9c5c1;
+}
+.stretched-link::after {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 1;
+    pointer-events: auto;
+    content: "";
+}
+.chartBox {
+    width: 200px;
+    justify-content: center;
+    margin: 8px;
+}
+.chartDoughnut {
+    height: 300px;
+    width: 300px;
+}
+#style {
+    color: #b3b3b3;
+}
+/* bidInvitation */
+#bidNav {
+    background: rgb(218, 218, 218);
+}
+#rgbButton {
+    background: rgb(9, 168, 197);
+    border-color: rgb(9, 168, 197);
+    color: white;
+}
+#rgbButton:hover {
+    background: white;
+    color: rgb(9, 168, 197);
+}
+#whiteButton {
+    background: white;
+    border-color: rgb(9, 168, 197);
+    color: rgb(9, 168, 197);
+}
+#whiteButton:hover {
+    background: rgb(9, 168, 197);
+    color: white
+}
+#dropdownBidButton {
+    background: rgb(9, 168, 197);
+    color: white
+}
+#accordionButton {
+    background: rgb(9, 168, 197);
+    color: white
+}
+
+/*notifications.html*/
+.custom-table {
+    padding-top: 2px;
+}
+
+/*passwordReset.html*/
+#bidNav2 {
+    background: rgb(218, 218, 218);
+    margin-top: 20%;
+}
+.backdrop {
+    background: #100c10;
+}
+
+/*bidInvitation.html*/
+#rgbCard {
+    background: rgb(9, 168, 197);
+    color: white;
+}
+#bidTable {
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+/*laptopSupply.html*/
+#bidCard {
+    background: rgb(218, 218, 218);
+    /*height: 400px;*/
+    /*width: 308px;*/
+}
+#fileDetails {
+    display: flex;
+    margin-left: 15px;
+    flex-direction: column;
+}
+#fileCol {
+    display: flex;
+    align-items: center;
+}
+#fileColTwo {
+    display: flex;
+    justify-content: space-between;
+}
+#fileRow {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 25px;
+}
+
+
+/*companyProfile.html*/
+#rowInfo {
+    margin-top: 3px;
+    margin-bottom: 2px;
+}
+
+/*profile.html*/
+#userData1 {
+    background: rgb(218, 218, 218);
+    border: 1px solid grey;
+}
+
+/*invitationDetails2.html*/
+#formDiv {
+    width: 500px;
+    border-radius:5px;
+    border: 2px dashed #b9b9b9;
+    height: 250px;
+}
+
+
+
+
